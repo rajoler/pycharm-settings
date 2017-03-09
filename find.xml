@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/home/jordi/work/manresa/odoo/planter/trunk/promotion/models/email.py'" />
-    <option name="defaultScopeName" value="File '/home/jordi/work/manresa/odoo/planter/trunk/promotion/models/email.py'" />
+    <option name="customScope" value="Project 'promotion'" />
+    <option name="defaultScopeName" value="Project 'promotion'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/home/jordi/work/manresa/odoo/planter/trunk/promotion/models/email.py'" />
+    <option name="SEARCH_SCOPE" value="Project 'promotion'" />
     <option name="FILE_MASK" value="*.py,*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
