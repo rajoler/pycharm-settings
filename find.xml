@@ -5,7 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.py,*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -21,8 +21,8 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.xml</mask>
-      <mask>*.py,*.xml</mask>
       <mask>*.py</mask>
+      <mask>*.py,*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
